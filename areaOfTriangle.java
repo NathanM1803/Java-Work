@@ -1,3 +1,6 @@
+// my second completed java project!
+// this program calculates the area of a traingle given 3 sides
+
 import java.util.Scanner;
 import java.lang.Math;
 
