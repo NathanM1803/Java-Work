@@ -1,4 +1,5 @@
 // This is a prgoram that allows a user to input values for integers x1,x2,y1,y2 and to caluculate the distance between the points
+// This is also my first program uploaded to github, as well as my first program made from scratch!
 
 import java.util.Scanner;
 import java.lang.Math;
