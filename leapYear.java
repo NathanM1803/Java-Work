@@ -1,6 +1,8 @@
+// This program determines if any year past 1582(The adoption of the Gregorian calender) is or is not a leap year
+
 package Homework2;
 import java.util.Scanner;
-import java.lang.*;
+
 
 public class leapYear {
     public static void main(String[] args){
